@@ -8,7 +8,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Used the setOnClickListener, setOnItemClickListener, notifyDataSetChange functions discussed in Lab H01.
 
 ## Verbal Collaboration
 
