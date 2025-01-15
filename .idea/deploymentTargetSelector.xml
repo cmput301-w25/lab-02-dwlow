@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-01-15T20:25:44.486787500Z">
+        <DropdownSelection timestamp="2025-01-15T21:18:29.225575700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\dalto\.android\avd\Medium_Phone.avd" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\dalto\.android\avd\Pixel_6_API_Baklava.avd" />
             </handle>
           </Target>
         </DropdownSelection>
